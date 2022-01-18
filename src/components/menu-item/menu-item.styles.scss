@@ -9,6 +9,7 @@
   margin: 0 7.5px 15px;
   overflow: hidden;
 
+  // sass controls for hovering over items 
   &:hover {
     cursor: pointer;
   
@@ -24,7 +25,7 @@
   
 
   &.large {
-    height: 380px;
+    height: 580px;
   }
 
   &:first-child {
